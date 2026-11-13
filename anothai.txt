@@ -1,3 +1,2 @@
-Hello World!
-My name is Anothai.
-This is my first GitHub project.
+- ผมชื่อ อโณทัย
+- นามสกุล อามาตย์หิน
